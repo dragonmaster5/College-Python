@@ -1,0 +1,4 @@
+def compute_pay(hours, rate_of_pay) :
+    hours=int(input(" Enter Hours:"))
+    rate_of_pay=float(input(" Enter Pay Rate:"))
+    return hours*rate_of_pay
