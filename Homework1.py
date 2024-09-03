@@ -7,10 +7,10 @@ rateOfPay=float(input(" Enter Pay Rate:"))
 print(hours*rateOfPay)
 
 #Textbook Problem #3
-#1) Int
-#2) Float
-#3) Float
-#4) Int
+#1) Int, 8
+#2) Float, 8.5
+#3) Float, 4.0
+#4) Int, 11
 
 #Textbook Problem #5
 celsius=int(input("enter temperature in celsius:"))
