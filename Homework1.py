@@ -83,12 +83,6 @@ Name ="Billy"
 print("Billy is ", str(age),"years old.")
 
 
-#In Class
-#fn="Billy"
-#mn=" Henry"
-#ln=" Draper"
-#Fn=fn+mn+ln
-#print("My Name is",Fn,"and I am ", age)
 #print("hi", input("what is your name?"))
 #int = int(input('what is the radius'))
 #print(math.pi * int ** 2)
