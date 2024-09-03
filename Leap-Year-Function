@@ -1,0 +1,9 @@
+def checkLeapYear(year):
+    check =(year % 100 == 0 and year % 400 == 0)
+    if check or (year % 4 ==0 and not(year%100==0)) :
+        return "Leap Year"
+    else:
+        return "Not a Leap Year"
+
+
+print(checkLeapYear(int(input("Enter a year: "))))
